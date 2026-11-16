@@ -6,13 +6,13 @@
 <tr>
 <td valign="top">
 
-We are a technology company with a presence in Spain and Argentina, specializing in **IT systems, artificial intelligence and cybersecurity**, with a special focus on the **SME sector** and **Open Source** solutions.
+Technology company operating in Spain and Argentina, specializing in **IT systems, artificial intelligence and cybersecurity**, with a special focus on the **SME sector** and **Open Source** solutions.
 
-We are pioneers in designing, implementing, managing and maintaining **infrastructure built on free and open source software**, allowing SMEs to have **self-hostable solutions with no licensing costs** and full control over their data and update policies.
+Pioneers in designing, implementing, managing and maintaining **infrastructure built on free and open source software**, giving SMEs **self-hostable solutions with no licensing costs** and full control over their data and update policies.
 
 #### Our value proposition
 
-We bring:
+What we bring:
 
 - **Optimal cost-benefit ratio**: We understand the budget constraints of SMEs and offer advanced cybersecurity solutions without the costs of large consulting firms.
 - **Digital sovereignty**: All our products and services are designed to help our clients reduce their dependence on third parties and gain greater control over their data, technology infrastructure, applications and digital services.
