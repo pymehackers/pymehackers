@@ -6,7 +6,7 @@
 <tr>
 <td valign="top">
 
-Technology company operating in Spain and Argentina, specializing in **IT systems, artificial intelligence and cybersecurity**, with a special focus on the **SME sector** and **Open Source** solutions.
+Technology company operating in Spain and Argentina, specializing in **IT Systems, Artificial Intelligence and CyberSecurity**, with a special focus on the **SME sector** and **Open Source** solutions.
 
 Pioneers in designing, implementing, managing and maintaining **infrastructure built on free and open source software**, giving SMEs **self-hostable solutions with no licensing costs** and full control over their data and update policies.
 
@@ -23,7 +23,7 @@ What we bring:
 </td>
 <td valign="top">
 
-Somos una empresa tecnológica con presencia en España y Argentina especializada en **sistemas informáticos, inteligencia artificial y ciberseguridad**, con especial foco en el **sector de las PYMEs** y en soluciones **Open Source**.
+Somos una empresa tecnológica con presencia en España y Argentina especializada en **Sistemas Informáticos, Inteligencia Artificial y CiberSeguridad**, con especial foco en el **sector de las PYMEs** y en soluciones **Open Source**.
 
 Somos pioneros en diseñar, implementar, administrar y mantener **infraestructuras basadas en software libre** y de código abierto, permitiendo a las PYMEs disponer de **soluciones auto-alojables, sin costes de licencias** y con control completo sobre los datos y las políticas de actualización.
 
