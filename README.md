@@ -4,7 +4,7 @@
 <th width="50%">Español</th>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" align="justify">
 
 Technology company operating in Spain and Argentina, specializing in **IT systems, artificial intelligence and cybersecurity**, with a special focus on the **SME sector** and **Open Source** solutions.
 
@@ -21,7 +21,7 @@ What we bring:
 - **Passionate professionals**: We only hire people who are passionate about computing and cybersecurity. Our highly demanding screening process results in a team that lives technology with genuine enthusiasm. We truly enjoy our work!
 
 </td>
-<td valign="top">
+<td valign="top" align="justify">
 
 Somos una empresa tecnológica con presencia en España y Argentina especializada en **sistemas informáticos, inteligencia artificial y ciberseguridad**, con especial foco en el **sector de las PYMEs** y en soluciones **Open Source**.
 
